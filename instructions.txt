@@ -1,0 +1,5 @@
+As a class, write feature requirements necessary to create a fully functional application that takes celsius temperature, converts it to Fahrenheit and changes the background to match said temperature.
+
+In groups of four write pseudo code for the application.
+
+In pairs write the code to convert Celsius into Fahrenheit, and display the result in the browser.

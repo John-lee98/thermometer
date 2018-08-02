@@ -1,0 +1,64 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+h1 {
+	font-family: "Open Sans", sans-serif;
+	font-size: 30px;
+	text-align: center;
+	font-weight: normal;
+}
+
+#thermometer {
+	height: 500px;
+	width: 200px;
+	border: solid #000 2px;
+	border-radius: 4px;
+	margin:5%;
+	
+}
+
+#conversionBox {
+	height: 200px;
+	width: 50%;
+	background: #E9967A;
+	border-radius: 20px;
+	margin:8%;
+	align-items: center;
+	font-family: "Open Sans", sans-serif;
+}
+
+main{
+	display: flex;
+	width: 80%;
+	margin: 0 auto;
+}
+
+table{
+	margin:auto;
+	height: 200px;
+}
+
+td{
+	padding:10px;
+	text-align: center;
+}
+
+#theader{
+	padding-top:20px;
+}
+
+span, td{
+	font-weight: bold;
+}
+ #theader td {
+ 	font-size: 25px;
+ 	font-weight: 800;
+
+ }
+
+ body {
+ 	background: beige;
+ }
+
